@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Robot Navigation.
 - 🌱 I’m currently learning Optimization.
 
-Check out my Jetson Nano based **Autonomous Ground Vehicle** [here](https://github.com/mych907/agv_master)!
+Check out my Jetson Nano based **Autonomous Ground Vehicle [here](https://github.com/mych907/agv_master)**!
 
 <!---
 mych907/mych907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
