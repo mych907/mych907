@@ -1,8 +1,6 @@
 I’m Minyoung Choi, a Master's student in Autonomous System and Control Lab, DGIST, South Korea.
 
-I’m interested in Mobile Robot Navigation.
-
-I’m currently learning Optimal control.
+Currently learning: Optimal control
 
 Check out my Jetson Nano based **Autonomous Ground Vehicle [here](https://github.com/mych907/agv_master)**!
 
