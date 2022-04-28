@@ -1,6 +1,4 @@
-I’m Minyoung Choi, a Master's student in Autonomous System and Control Lab, DGIST, South Korea.
-
-Currently learning: Optimal control
+I’m Minyoung, a Master's student in Autonomous System and Control Lab, DGIST, South Korea.
 
 Check out my Jetson Nano based **Autonomous Ground Vehicle [here](https://github.com/mych907/agv_master)**!
 
