@@ -1,4 +1,4 @@
-Master's student studying Robotics
+Master's student studying Robotics in DGIST, South Korea
 
 Check out my Jetson Nano based **Autonomous Ground Vehicle [here](https://github.com/mych907/agv_master)**!
 
